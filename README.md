@@ -1,6 +1,6 @@
 
 
-<h1 align="center">🕹️ Projeto Final - Bloco 02 | Generation Brasil</h1>
+<h1 align="center">🕹️ inventory-management-api | Generation Brasil</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/status-em%20desenvolvimento-purple?style=for-the-badge" />

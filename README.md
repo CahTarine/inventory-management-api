@@ -3,8 +3,8 @@
 <h1 align="center">🕹️ inventory-management-api | Generation Brasil</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/status-em%20desenvolvimento-purple?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Java-21-purple?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/status-concluído-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Java-17+-purple?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring_Boot-2.7.5-purple?style=for-the-badge&logo=spring&logoColor=white" />
   <img src="https://img.shields.io/badge/Maven-3.8.6-purple?style=for-the-badge&logo=apachemaven&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
@@ -28,7 +28,7 @@ Este projeto consiste em uma aplicação Java desenvolvida como parte do Bloco 0
 
 ## 🚀 Tecnologias Utilizadas
 
-- Java 21
+- Java 17+
 
 - Maven
 
@@ -86,7 +86,7 @@ projeto_final_bloco_02/
 
 1. Pré-requisitos:
 
-- Java 8+ instalado.
+- Java 17+ instalado.
 
 - MySQL instalado e em execução.
 
@@ -109,7 +109,7 @@ A API estará disponível em http://localhost:8080.
 
 ##
 
-## 💡 Melhorias Futuras
+## 💡 Possíveis Melhorias
 
 Integração com banco de dados PostgreSQL
 

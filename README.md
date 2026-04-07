@@ -84,7 +84,7 @@ projeto_final_bloco_02/
 
 ## 🛠️ Como Executar
 
-1. Pré-requisitos:
+ #### 1. Pré-requisitos:
 
 - Java 17+ instalado.
 
@@ -92,18 +92,27 @@ projeto_final_bloco_02/
 
 - IDE de sua preferência (IntelliJ, Eclipse, VS Code).
 
-2. Clone o repositório:
+<br />
+
+#### 2. Clone o repositório:
 ```
 git clone https://github.com/CahTarine/inventory-management-api.git
 ```
-3.Execute a aplicação:
+
+<br />
+
+#### 3. Execute a aplicação:
 - Via IDE: execute a classe ProjetoApplication.java.
 
 - Via terminal:
 ```
 ./mvnw spring-boot:run
 ```
-5. Acesse a aplicação:
+
+<br />
+
+
+#### 4. Acesse a aplicação:
 
 A API estará disponível em http://localhost:8080.
 

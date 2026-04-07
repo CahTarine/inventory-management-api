@@ -94,7 +94,7 @@ projeto_final_bloco_02/
 
 2. Clone o repositório:
 ```
-git clone https://github.com/CahTarine/projeto_final_bloco_02.git
+git clone https://github.com/CahTarine/inventory-management-api.git
 ```
 3.Execute a aplicação:
 - Via IDE: execute a classe ProjetoApplication.java.

@@ -12,12 +12,12 @@
 </p>
 
 <p align="center">
-  <a href="#descrição-do-projeto">Descrição</a> • 
-  <a href="#tecnologias-utilizadas">Tecnologias</a> • 
+  <a href="#-descrição-do-projeto">Descrição</a> • 
+  <a href="#-tecnologias-utilizadas">Tecnologias</a> • 
   <a href="#funcionalidades">Funcionalidades</a> •
-  <a href="#estrutura-do-projeto">Estrutura do Projeto</a> • 
-  <a href="#como-executar">Excutar Localmente</a> • 
-  <a href="#melhorias-futuras">Melhorias</a>
+  <a href="#-estrutura-do-projeto">Estrutura do Projeto</a> • 
+  <a href="#como-executar">Executar Localmente</a> •
+  <a href="#-roadmap">Roadmap</a>
 </p>
 
 ##
@@ -42,7 +42,7 @@ Este projeto consiste em uma aplicação Java desenvolvida como parte do Bloco 0
 
 ##
 
-## ⚙️ Funcionalidades
+## <a name="funcionalidades"></a> ⚙️ Funcionalidades
 
 - Cadastro de produtos e categorias.
 
@@ -82,7 +82,7 @@ projeto_final_bloco_02/
 ```
 ##
 
-## 🛠️ Como Executar
+## <a name="como-executar"></a> 🛠️ Como Executar
 
  #### 1. Pré-requisitos:
 
@@ -118,7 +118,7 @@ A API estará disponível em http://localhost:8080.
 
 ##
 
-## 💡 Possíveis Melhorias
+## 💡 Roadmap
 
 Integração com banco de dados PostgreSQL
 
